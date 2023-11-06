@@ -14,7 +14,7 @@ using namespace std;
 Folder*active_folder = 0;
 
 /// <summary>
-/// Changes directory to a different one. ".." returns to the parent.
+/// Changes directory to a different one
 /// </summary>
 /// <param name="newdir"></param>
 /// <returns></returns>
